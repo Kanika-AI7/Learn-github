@@ -1,0 +1,3 @@
+Hello there, i am kanika maity.
+i am practicing git n github .
+this is day2
